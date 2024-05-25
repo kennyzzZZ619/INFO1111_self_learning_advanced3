@@ -1,0 +1,2 @@
+Hello, this is a test file.
+Appending a new line to the file.
